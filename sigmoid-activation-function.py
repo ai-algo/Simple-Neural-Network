@@ -14,3 +14,8 @@ output = sigmoid(np.dot(weights, inputs) + bias)
 print(np.dot(weights, inputs))
 print('Output:')
 print(output)
+
+
+
+#Output:
+#0.432907095035
