@@ -13,7 +13,7 @@ def sigmoid_prime(x):
     return sigmoid(x) * (1 - sigmoid(x))
 
 learnrate = 0.5
-x = np.array([1, 2. 3, 4])
+x = np.array([1, 2, 3, 4])
 y = np.array(0.5)
 
 # Initial weights
