@@ -1,5 +1,5 @@
-# Simple-Perceptron
-Weights and bias for various simple perceptrons neural networks
+# Simple-Neural-Network
+various simple implementation of parts of neural networks code
 
 1) AND_Perceptron.py, NOT_Perceptron.py, OR_Perceptron.py	
 
