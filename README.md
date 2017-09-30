@@ -2,9 +2,7 @@
 Weights and bias for various simple perceptrons
 
 1)
-AND_Perceptron.py
-NOT_Perceptron.py	
-OR_Perceptron.py	
+AND_Perceptron.py, NOT_Perceptron.py, OR_Perceptron.py	
 
 2) 
 sigmoid-activation-function.py
@@ -13,7 +11,4 @@ sigmoid-activation-function.py
 gradient-descent-1.py	
 
 4)
-gradient.py
-data_prep.py
-binary.csv
-gradient-descent-2.py	
+gradient.py, data_prep.py, binary.csv, gradient-descent-2.py	
