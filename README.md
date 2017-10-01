@@ -1,5 +1,5 @@
 # Simple-Neural-Network
-various simple implementation of parts of neural networks code
+Various simple implementation of parts of back-propagation neural networks code
 
 1) AND_Perceptron.py, NOT_Perceptron.py, OR_Perceptron.py	
 
