@@ -7,4 +7,4 @@ Various simple implementation of parts of back-propagation neural networks code
 
 3) gradient-descent-1.py	
 
-4) (Gradient Descent 2 folder) gradient.py, data_prep.py, binary.csv, gradient-descent-2.py	
+4) (Gradient Descent 2 folder) gradient.py, data_prep.py, binary.csv, gradient.py	
